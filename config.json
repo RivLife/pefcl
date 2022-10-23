@@ -1,12 +1,12 @@
 {
   "general": {
-    "language": "en",
+    "language": "fr",
     "currency": "USD",
     "identifierType": "license"
   },
   "frameworkIntegration": {
-    "enabled": false,
-    "resource": "your-resource",
+    "enabled": true,
+    "resource": "qb-pefcl",
     "syncInitialBankBalance": true
   },
   "database": {
@@ -31,7 +31,7 @@
   },
   "bankBlips": {
     "enabled": true,
-    "name": "Bank",
+    "name": "Banque",
     "colour": 2,
     "icon": 108,
     "scale": 0.55,
